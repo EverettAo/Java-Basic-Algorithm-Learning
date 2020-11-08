@@ -36,4 +36,8 @@ public class fibSearch {
         int[] fibs = fib(key);
         return 0;
     }
+
+    public static int goldSplitSearch(int[] arr, int key) {
+        return 0;
+    }
 }
